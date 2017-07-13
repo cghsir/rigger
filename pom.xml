@@ -24,5 +24,6 @@
         <module>rigger-admin</module>
         <module>rigger-common</module>
         <module>rigger-upms</module>
+        <module>rigger-config</module>
     </modules>
 </project>
