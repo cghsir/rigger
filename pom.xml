@@ -22,5 +22,6 @@
 
     <modules>
         <module>rigger-admin</module>
+        <module>rigger-common</module>
     </modules>
 </project>
